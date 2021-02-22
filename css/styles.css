@@ -5,8 +5,8 @@
 .gallery{
     max-width: auto;
   display:grid;
-  grid-template-columns:30px 30px 30px 30px;
-  grid-gap: 10px 190px;
+  grid-template-columns:200px 200px 200px 200px;
+  grid-gap: 10px ;
  margin:2% 20% 0px 20%;
 }
 
